@@ -5,5 +5,5 @@
 - :orange_book: Focusing on FrontEnd
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the JavaSriprt & Golang
-- :meat_on_bone: Meat lover
+- :meat_on_bone: Code lover
 
